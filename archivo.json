@@ -1,0 +1,10 @@
+{
+    "Titulo": "El principito",
+    "autor": "Antoine de Saint-Exupery",
+    "Edicion": 1943,
+    "Editorial":"Salamandra",
+    "Idioma original":"Frances",
+    "Resumen":"El principito narra la historia de un piloto que, mientras intenta reparar su avion averiado en medio del desierto del sahara, se topa con un pequeño principe proveniente del asteroide B 612, que le pide insitentemente que le dibuje un cordero y que nunca olvida una pregunta",
+    "colores":["rojo", "azul","morado","verde"],
+    "nombres":{"alumno1":"yoltic", "alumno2": "jesus","alumno3":"alexis","alumno4":"lupita"}
+}
